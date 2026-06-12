@@ -69,7 +69,8 @@ void yyerror(const char *s) {
 }
 ~~~
 # OUTPUT
-![image](https://github.com/user-attachments/assets/61e2eefe-12a3-4d85-9677-58cedf70b7d6)
+<img width="745" height="555" alt="image" src="https://github.com/user-attachments/assets/7dcf0882-6ccf-49bc-9ffb-a558b878de30" />
+
 
 
 
